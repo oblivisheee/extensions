@@ -1375,6 +1375,10 @@ version = "2.0.1"
 submodule = "extensions/devicetree"
 version = "0.2.0"
 
+[dexra-mcp-server]
+submodule = "extensions/dexra-mcp-server"
+version = "0.1.0"
+
 [dhall]
 submodule = "extensions/dhall"
 version = "0.1.0"
